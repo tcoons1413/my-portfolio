@@ -10,5 +10,15 @@ img{
     height: 300px;
     overflow: hidden;
     border-radius: 5px 5px 0 0;
+}
 
+.img-logo-wrapper{
+    width: 30%;
+    height: auto;
+    overflow: hidden;
+    border-radius: 5px 5px 0 0;
+}
+
+#react-logo{
+    margin-left: 11px;
 }
